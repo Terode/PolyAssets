@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.1.0)
+  - Kingfisher (4.10.1)
+  - KRActivityIndicatorView (3.0.5)
+  - KRProgressHUD (3.4.5):
+    - KRActivityIndicatorView (= 3.0.5)
+  - SwiftKeychainWrapper (3.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher (~> 4.10.1)
+  - KRProgressHUD
+  - SwiftKeychainWrapper (~> 3.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - KRActivityIndicatorView
+    - KRProgressHUD
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  KRActivityIndicatorView: 912bc0413d98340f384b12a4e1e6aa8f42fb377d
+  KRProgressHUD: df4cdc3a1baf708d4276a089ee34d133fa9a6f3e
+  SwiftKeychainWrapper: 82c4c02cdc36f9a24f7edfcaab3e336401caa1a1
+
+PODFILE CHECKSUM: b4f10ce17d345d1258b64a73f6fcc0d6621044d0
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,16 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'PolyAssets' do
+  use_frameworks!
+
+  #Network
+  pod 'Alamofire'
+  # Keychain
+  pod 'SwiftKeychainWrapper', '~> 3.2.0'
+  # Kingfisher
+  pod 'Kingfisher', '~> 4.10.1'
+  # KRProgressHUD
+  pod "KRProgressHUD"
+
+end
